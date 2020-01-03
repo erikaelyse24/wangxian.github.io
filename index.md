@@ -24,6 +24,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 [Link](url) and ![Image](src)
 ```
+(~~this~~)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
